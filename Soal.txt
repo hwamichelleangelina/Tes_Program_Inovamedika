@@ -1,0 +1,10 @@
+Buat program Java menggunakan Netbeans untuk test koneksi ke Hercules Simulator melalui protocol:
+> TCP/IP Client
+
+Jika program Java dan Hercules Simulator berhasil terkoneksi, maka:
+> print output "Berhasil terkoneksi" pada program Java
+> tampilan di Hercules Simulator seperti gambar 1a
+
+Aplikasi yg dibutuhkan:
+> Netbeans
+> Hercules Simulator https://www.hw-group.com/software/hercules-setup-utility
